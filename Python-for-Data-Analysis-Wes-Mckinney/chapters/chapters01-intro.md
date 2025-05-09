@@ -1,5 +1,5 @@
 
-![这是我的第一张图片](..images/001.png)
+![ffirst pictures](..images/001.png)
 
 
 打发打发
